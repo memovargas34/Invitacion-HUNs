@@ -1,0 +1,92 @@
+header {
+    padding: -40px
+}
+
+.head {
+    margin: 0 auto;
+    background-color: aliceblue;
+    width: 300px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.novios {
+    margin: auto;
+    width: 300px;
+    text-align: center;
+    box-shadow: 0px 3px 5px 1px rgba(0, 0, 20, 0.2);
+    border-radius: 10px;
+    background-color: aliceblue;
+    font-family: "Parisienne", cursive;
+    font-size: 50px;
+    font-style: normal;
+}
+
+iframe {
+    padding-top: 80px;
+    width: 300px;
+    height: 100px;
+}
+
+body {
+    width: auto;
+    background-image: url("ASSETS/FLORES PNG/Firefly+/wallpaper1.jpeg");
+    background-repeat:auto;
+    background-size:contain;
+    text-align: center;
+    color: rgb(59, 59, 59);
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: small;
+}
+
+strong {
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+}
+
+section {
+    width: 300px;
+    background-color: aliceblue;
+    padding: 10px;
+    margin: 20px auto;
+    display: block;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0px 3px 5px 1px rgba(0, 0, 20, 0.2);
+}
+
+section:hover {
+    transition: transform .2s;
+    /* Animation */
+    transform: scale(1.1);
+    width: 300px;
+    background-color: aliceblue;
+    padding: 10px;
+    margin: 20px auto;
+    display: block;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0px 3px 5px 1px rgba(0, 0, 20, 0.2);
+}
+
+h2 {
+    font-weight: 400;
+}
+
+a {
+    font-weight: 400;
+    color: #b3b3b3;
+}
+
+a:hover {
+
+    font-weight: 600;
+    color: #56877C
+}
+
+.informacion-adicional {
+    text-align: center;
+}
