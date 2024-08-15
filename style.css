@@ -90,3 +90,8 @@ a:hover {
 .informacion-adicional {
     text-align: center;
 }
+
+svg {
+    height: 50px;
+    margin: 20px;
+}
